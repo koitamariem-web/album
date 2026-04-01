@@ -3,6 +3,17 @@ body{
 }
 h1{
 
-    text-align: center;
-    color: aliceblue;
+    text-align:end;
+    color: b;
 }
+
+
+body{background-color: rgba(206, 249, 249, 0.315);}
+h4{color: blue;}
+
+a{
+    color: black;
+    text-align: center;
+  
+}
+
